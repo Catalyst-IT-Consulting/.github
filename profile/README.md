@@ -11,9 +11,6 @@
 > **`[PUBLIC]`** Welcome — here's what we're building in the open.
 
 ![GitHub Org](https://img.shields.io/badge/org-Catalyst--IT--Consulting-181717?style=flat-square&logo=github)
-![Infra](https://img.shields.io/badge/infra-Proxmox_VE-E57000?style=flat-square&logo=proxmox)
-![CI](https://img.shields.io/badge/ci-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![IaC](https://img.shields.io/badge/iac-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
@@ -31,29 +28,6 @@ We're **Catalyst IT Consulting** — a lean engineering team shipping full-stack
 Pinned repositories below showcase what we've open-sourced. Everything else lives
 on [`catalystitconsulting.com`](https://catalystitconsulting.com) or is built for
 clients behind closed doors.
-
----
-
-### `$ cat /proc/techstack`
-
-```yaml
-languages:
-  backend:    [Python, Rust]
-  frontend:   [HTML, CSS, JavaScript, TypeScript]
-  scripting:  [Shell, PowerShell]
-  templating: [Jinja, Mako]
-  infra:      [HCL, DCL]
-
-infrastructure:
-  hypervisor:   Proxmox VE (clustered)
-  provisioning: Ansible
-  containers:   Docker
-  iac:          Terraform (HCL)
-
-tooling:
-  vcs:    git
-  ci_cd:  GitHub Actions
-```
 
 ---
 
